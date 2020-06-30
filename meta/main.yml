@@ -19,7 +19,7 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - all
-    - name: Suse
+    - name: opensuse
       versions:
         - 15.1
   galaxy_tags:
